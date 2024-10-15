@@ -1,16 +1,41 @@
-# Goggl - The Most Unique Search Engine in the World
+# Search Engine Clone 🔎
 
-![Goggl](https://i.ibb.co/yQdYhtq/image.png)
+"Search Engine Clone" is a fully functional search engine application, modeled after platforms like Google and Bing. It enables users to search the web and retrieve relevant results efficiently, offering a smooth and user-friendly experience.
+<hr/>
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+![image](https://github.com/user-attachments/assets/6d942716-29c0-4522-a29a-4d322f580565)
 
-In this video, we will create a Google Clone app. We're going to use React and Goole Search API powered by https://rapidapi.com.
 
-By the end of this video, you will become the master of working with APIs.
+<hr />
 
-Setup:
-- run ```npm i && npm start``` to start the development server
+## Built With
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
+- HTML
+- CSS
+- JavsScript
+- React
+- Rapid API
+- Netlify
+- Github
+
+## Live Demo
+
+[Live Demo Link](https://search-engine-101.netlify.app/)
+
+## Author
+
+👤 **A B M Asadullah**
+
+- Github: [@abmasadullah](https://github.com/abmasadullah)
+- Linkedin: [@abmasadullah](https://www.linkedin.com/in/abmasadullah)
+- Website: [@abmasadullah](https://asad.app/)
+
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+Feel free to check the issues page.
+
+## Show your support
+
+Give a ⭐️ if you like this project!
